@@ -1,2 +1,2 @@
 # MITBP-License
-A customized MIT License with additional terms to ask users not to misuse the original project name.
+A customized MIT License with additional no-trademark terms.
